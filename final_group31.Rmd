@@ -937,6 +937,8 @@ wordcloud(words = df_word_cloud$Injury, freq = temp_df$Freq, min.freq = 1,
 
 # Conclusion and Summary
 
+Data regarding deaths due to drug overdose in the state of Connecticut from the year 2012 to 2018 was analysed. We followed the three fold approach to gather insights and find patterns in the drug abuse cases. The hypothesis for our demographic aspect was supported by our analysis and supporting graphs that drug abuse is highly correlated with the demographic attributes of population such as age, gender, race, and area. Deaths due to drug abuse have been on a rise over the years, thereby answering our initial questions regarding the temporal aspect of the analysis. Finally, the causal diagnosis helped us gather information about the chemicals and their co-consumption which are responsible for the deaths in Connecticut. All the analysis and the inferences from the graphs are concurrent to the findings from the various online news articles that we came across regarding the same. Overall, drug abuse has been a grave problem not only in Connecticut but all over the world and needs to be paid heed to immediately, so that lives of many innocent people can be saved.
+
 Github Link: 
 # References
 [1] https://wallethub.com/edu/drug-use-by-state/35150/
