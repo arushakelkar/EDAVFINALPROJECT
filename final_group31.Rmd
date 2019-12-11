@@ -960,6 +960,8 @@ We are showing a total of 4 outputs in our interactive component:
 
 - Finally a table is displayed of all the filtered drug abuse death cases so that the user can see all the information for that particular selection at one place.
 
+You can also hover over the line as well as the bar chart to see the exact values for that particular year or chemical respectively.
+
 The introduction of the interactive component in our project makes it easier for any type of user to get information as desired by him/her across the above mentioned input parameters. The variation of information is better represented by the interactive component than the static graphs. The static visualizations are restricted only to a single parameter which is not the case in interactive component.
 
 Link to the shiny app: https://tanvipareek.shinyapps.io/interactive/ 
