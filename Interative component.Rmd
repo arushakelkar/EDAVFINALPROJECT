@@ -1,0 +1,30 @@
+
+# Interactive Component
+
+The objective of the interactive component is to see the number of deaths due to drug abuse in the state of Connecticut across various parameters **year,months,race,age and gender**. 
+
+**Input parameters:**
+
+- Year is a slider which takes values from 2012 to 2018.
+
+- Months is a slider which takes values from 1 to 12.
+
+- Race is a dropdown which takes one of the values from Black, Chinese,White,Asian Indian,Asian other,Hispanic Black,Hispanic White,Native American other,other and unknown.
+
+- Age is a dropdown which takes one of the values from young,teens,mid and old.
+
+- Gender is a dropdown which takes one of the values from male, female and unknown.
+
+**Output graphs/plots:**
+
+We are showing a total of 4 outputs in our interactive component:
+
+- Linechart showing number of deaths over the years selected by the user.
+
+- Multiple linechart showing monthwise number of deaths over the years according to the selections made by the user.
+
+- Barchart showing frequency of deaths due to a particular chemical/chemicals according to the selections made by the user.
+
+- Finally a table is displayed of all the filtered drug abuse death cases so that the user can see all the information for that particular selection at one place.
+
+The introduction of the interactive component in our project makes it easier for any type of user to get information as desired by him/her across the above mentioned input parameters. The variation of information is better represented by the interactive component than the static graphs. The static visualizations are restricted only to a single parameter which is not the case in interactive component.
