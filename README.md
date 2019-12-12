@@ -14,3 +14,5 @@ Group Members (Group 31):
             - Arusha Kelkar (ak4432)
             
             - Tanvi Gautam Pareek (tgp2108)
+            
+    Interactive Component: https://tanvipareek.shinyapps.io/interactive/
