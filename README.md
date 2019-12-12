@@ -3,6 +3,8 @@
 This repository is for the Fall 19 Exploratory Data analysis and Visualization course.
 The project is about "Analysis of Drug Overdose related Deaths".
 
+Interactive Component: <a> https://tanvipareek.shinyapps.io/interactive/ </a>
+
 Instructor: Joyce Robbins
 
 Group Members (Group 31):
@@ -15,4 +17,4 @@ Group Members (Group 31):
             
             - Tanvi Gautam Pareek (tgp2108)
             
-    Interactive Component: https://tanvipareek.shinyapps.io/interactive/
+   
