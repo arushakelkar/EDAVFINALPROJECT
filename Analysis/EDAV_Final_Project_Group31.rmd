@@ -111,7 +111,7 @@ library(forcats)
 
 ```{r}
 # Reading the dataset
-df_main <- read.csv("Accidental_Drug_Related_Deaths_2012-2018.csv",na.strings=c("","NA"))
+df_main <- read.csv("../data/Accidental_Drug_Related_Deaths_2012-2018.csv",na.strings=c("","NA"))
 cat(paste("\n Number of rows in the original dataframe: ", nrow(df_main), "\n", 
           "Number of columns in the original dataframe: ", ncol(df_main), "\n \n" ), sep="")
 
